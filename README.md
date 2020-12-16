@@ -17,8 +17,8 @@ MATLAB version should be R2019b and later
 
 ## **Usage**
 
--	EN_VAE_Anomalydetection.mlx窶・Example showing how to train the VAE model in English
--	JP_VAE_Anomalydetection.mlx 窶・Example showing how to train the VAE model in  Japanese
+-	EN_VAE_Anomalydetection.mlx ・Example showing how to train the VAE model in English
+-	JP_VAE_Anomalydetection.mlx  ・Example showing how to train the VAE model in  Japanese
 
 
 # **Reference**
