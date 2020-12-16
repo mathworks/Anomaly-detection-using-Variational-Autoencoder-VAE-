@@ -22,8 +22,10 @@ MATLAB version should be R2019b and later
 
 
 # **Reference**
-[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
- (Jun-Yan Zhu.etc, 2017)
+Auto-Encoding Variational Bayes [2013]
+Diederik P Kingma, Max Welling
+https://arxiv.org/pdf/1312.6114.pdf
+
 
 
 Copyright 2019-2020 The MathWorks, Inc.
