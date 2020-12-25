@@ -1,7 +1,7 @@
 # Anomaly-detection-using-Variational-Autoencoder-VAE
 
 
-![result image](https://jp.mathworks.com/responsive_image/165/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/4430b386-20cc-412b-a4bb-1b7180b7d447/5abdedb4-f118-4fd1-bf4f-12f8e3400350/images/screenshot.JPG)
+![result image](https://jp.mathworks.com/matlabcentral/mlc-downloads/downloads/4430b386-20cc-412b-a4bb-1b7180b7d447/5abdedb4-f118-4fd1-bf4f-12f8e3400350/images/screenshot.JPG)
 
 
 On shipping inspection for chemical materials, clothing, and food materials, etc, it is necessary to detect defects and impurities in normal products.
